@@ -1,0 +1,188 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.268rem;
+  line-height: 2;
+  margin-top: 50px
+}
+
+
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration:  none;
+
+}
+
+a:hover {
+  color: white
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  /* font-size: 2.5rem; */
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute
+}
+
+.img-profile {
+  border-radius: 100%;
+  border-color: black;
+  border: solid;
+  border-width: 9px;
+}
+
+.img-profile:hover {
+  border: solid;
+  border-color: red;
+  border-width: 9px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 20px;
+}
+
+.skill-row:hover {
+  background-color: lightGray
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+
+p {
+  /* font-weight: bold; */
+  font-family: "avenir"
+}
+
+a {
+  text-decoration: none;
+  ]
+}
+
+
+.middle-container {
+  padding: 120px 0;
+  /* maring: 200px 0; */
+}
+
+.intro {
+  width: 30%;
+  margin:0 auto 50px;
+  font-weight: bold;
+  font-size: 1.4rem
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+
+.bottom-container a {
+  margin: 30px;
+  font-weight: bold;
+  font-size: 1.4rem;
+  font-family: sans-serif;
+}
+
+.bottom-container p {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  color: white;
+}
+
+hr {
+  width: 4%;
+  border:  dotted lightGray;
+  /* border-style: none none dotted; */
+  border-bottom: none;
+  border-width: 8px;
+  margin: 100px auto;
+}
+
+
+.contact-me {
+  margin: 100px;
+  /* height: 300px; */
+  line-height: 2;
+  font-weight: bold
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 35px;
+}
+
+
+
+
+.btn {
+  background-color:  #66BFBF;;
+  padding: 14px;
+  color: white;
+  margin: 30px;
+}
